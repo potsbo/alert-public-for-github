@@ -12,7 +12,7 @@
     "gulp-babel": "^8.0.0",
     "gulp-cache": "^1.0.2",
     "gulp-chrome-manifest": "0.0.13",
-    "gulp-clean-css": "^3.9.4",
+    "gulp-clean-css": "^4.2.0",
     "gulp-eslint": "^5.0.0",
     "gulp-if": "^2.0.2",
     "gulp-imagemin": "^4.1.0",
